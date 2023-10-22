@@ -5,8 +5,6 @@ A simple web application to view your NFTs.
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Description
 
@@ -16,11 +14,11 @@ This project allows users create nft-gallery dap of their NFTs. It displays NFT 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nft-wallet-viewer.git
+   git clone https://github.com/your-username/nft-gallery-dap.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd https://github.com/marat0s/NFTproject.git
+   cd https://github.com/justcallmedisa/nft-gallery.git
    ```
 3. Install the required dependencies:
    ```bash
@@ -30,9 +28,3 @@ This project allows users create nft-gallery dap of their NFTs. It displays NFT 
    ```bash
    npm start
    ```
-
-## Usage
-
-1. Open the [application](https://nft-project-steel.vercel.app/) in your browser.
-2. Click on the "Connect Wallet" button.
-3. Once connected, the application will automatically fetch and display your NFTs.
